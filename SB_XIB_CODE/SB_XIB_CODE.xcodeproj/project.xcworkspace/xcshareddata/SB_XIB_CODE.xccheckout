@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B77CC074-950B-46ED-9900-1705F7D3018A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SB_XIB_CODE</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D975CC8BB1EA34DB64FB95945B7C29C9D233FCE0</key>
+		<string>https://github.com/happyhj/NEXT_iOS_Adv.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SB_XIB_CODE/SB_XIB_CODE.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D975CC8BB1EA34DB64FB95945B7C29C9D233FCE0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/happyhj/NEXT_iOS_Adv.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D975CC8BB1EA34DB64FB95945B7C29C9D233FCE0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D975CC8BB1EA34DB64FB95945B7C29C9D233FCE0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NEXT_iOS_Adv</string>
+		</dict>
+	</array>
+</dict>
+</plist>
